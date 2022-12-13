@@ -13,11 +13,11 @@ Edition Game Plan:
 2. Add the strings for code
 3. Add strings to explain the elements I'm typing, like flashcards.
 
-*Unordered lists!*
+*I will likely add code snippits as I find them*
 
-- like
-- this
-- one
+- I want to focus on the "top 1000 most common" at first
+- This will be adaptable for other languages
+- Will be a living library of common syntactic sugar cubes
 
 *The inspiration was figuring out how to output code like this:*
 
